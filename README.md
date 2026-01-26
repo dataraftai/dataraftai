@@ -2,6 +2,9 @@
 Aspiring Data Scientist focused on Machine Learning and Analytics.
 Currently building ML projects and preparing for data science internships & remote roles.
 
+🔗 Check out my **[Portfolio](https://github.com/dataraftai/portfolio)** for all of my projects, micro-projects, skills, certificates, and achievements.
+
+
 ![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=dataraftai&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dataraftai&layout=compact&theme=radical)
 
